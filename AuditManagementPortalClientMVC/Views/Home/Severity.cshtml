@@ -1,0 +1,38 @@
+﻿@model AuditManagementPortalClientMVC.Models.AuditResponse;
+
+@{
+    Layout = "_Authenticated";
+}
+
+@{ ViewData["Title"] = "SeverityResult"; }
+
+
+<h1>Result Based On Audit Request</h1>
+
+@if (Model.ProjectExexutionStatus == "GREEN")
+{
+    <div style=" background-color: lawngreen;">
+        <h1>Audit Id :</h1>
+        <h3>@Model.AuditId </h3>
+        <h1>Project Execution Status :</h1>
+        <h3> @Model.ProjectExexutionStatus</h3>
+        <h1>Remedial Action Duration :</h1>
+        <h3> @Model.RemedialActionDuration</h3>
+
+    </div>
+
+
+}
+else
+{
+    <div style=" background-color: red; color: white;">
+        <h1>Audit Id :</h1>
+        <h3>@Model.AuditId </h3>
+        <h1>Project Execution Status :</h1>
+        <h3> @Model.ProjectExexutionStatus</h3>
+        <h1>Remedial Action Duration :</h1>
+        <h3> @Model.RemedialActionDuration</h3>
+
+    </div>
+
+}

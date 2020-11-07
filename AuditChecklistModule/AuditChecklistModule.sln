@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditChecklistModule", "AuditChecklistModule.csproj", "{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditChecklistTesting", "..\AuditChecklistTesting\AuditChecklistTesting.csproj", "{F62CA032-CAED-48E2-9E82-FA963F4E3B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62CA032-CAED-48E2-9E82-FA963F4E3B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62CA032-CAED-48E2-9E82-FA963F4E3B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62CA032-CAED-48E2-9E82-FA963F4E3B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62CA032-CAED-48E2-9E82-FA963F4E3B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06E3020-111B-4095-91BE-A7FC6F4E83C3}
+	EndGlobalSection
+EndGlobal

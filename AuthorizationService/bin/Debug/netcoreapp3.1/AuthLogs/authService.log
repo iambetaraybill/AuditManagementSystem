@@ -1,0 +1,114 @@
+INFO  02:54:18 Application started. Press Ctrl+C to shut down.
+INFO  02:54:19 Application started. Press Ctrl+C to shut down.
+INFO  02:54:19 Hosting environment: Development
+INFO  02:54:19 Hosting environment: Development
+INFO  02:54:19 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:54:19 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:54:19  Http GET Request From: TokenController
+INFO  02:54:19  GetJsonWebToken method of AuthProvider Called 
+INFO  02:54:19  GenerateJWT method of AuthRepo Called 
+INFO  02:54:42  Http GET Request From: TokenController
+INFO  02:54:42  GetJsonWebToken method of AuthProvider Called 
+INFO  02:54:42  GenerateJWT method of AuthRepo Called 
+INFO  09:39:24 Application started. Press Ctrl+C to shut down.
+INFO  09:39:24 Application started. Press Ctrl+C to shut down.
+INFO  09:39:24 Hosting environment: Development
+INFO  09:39:24 Hosting environment: Development
+INFO  09:39:24 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:39:24 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:39:25  Http GET Request From: TokenController
+INFO  09:39:25  GetJsonWebToken method of AuthProvider Called 
+INFO  09:39:25  GenerateJWT method of AuthRepo Called 
+INFO  09:39:29  Http GET Request From: TokenController
+INFO  09:39:29  GetJsonWebToken method of AuthProvider Called 
+INFO  09:39:29  GenerateJWT method of AuthRepo Called 
+INFO  09:39:30  Http GET Request From: TokenController
+INFO  09:39:30  GetJsonWebToken method of AuthProvider Called 
+INFO  09:39:30  GenerateJWT method of AuthRepo Called 
+INFO  09:42:02 Application started. Press Ctrl+C to shut down.
+INFO  09:42:02 Application started. Press Ctrl+C to shut down.
+INFO  09:42:02 Hosting environment: Development
+INFO  09:42:02 Hosting environment: Development
+INFO  09:42:02 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:42:02 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  09:42:02  Http GET Request From: TokenController
+INFO  09:42:02  GetJsonWebToken method of AuthProvider Called 
+INFO  09:42:02  GenerateJWT method of AuthRepo Called 
+INFO  01:47:40 Application started. Press Ctrl+C to shut down.
+INFO  01:47:40 Application started. Press Ctrl+C to shut down.
+INFO  01:47:40 Hosting environment: Development
+INFO  01:47:40 Hosting environment: Development
+INFO  01:47:40 Content root path: D:\games\fonts\AuthorizationService
+INFO  01:47:40 Content root path: D:\games\fonts\AuthorizationService
+INFO  01:47:40  Http GET Request From: TokenController
+INFO  01:47:40  GetJsonWebToken method of AuthProvider Called 
+INFO  01:47:40  GenerateJWT method of AuthRepo Called 
+INFO  01:48:44 Application started. Press Ctrl+C to shut down.
+INFO  01:48:44 Application started. Press Ctrl+C to shut down.
+INFO  01:48:44 Hosting environment: Development
+INFO  01:48:44 Hosting environment: Development
+INFO  01:48:44 Content root path: D:\games\fonts\AuthorizationService
+INFO  01:48:44 Content root path: D:\games\fonts\AuthorizationService
+INFO  01:48:45  Http GET Request From: TokenController
+INFO  01:48:45  GetJsonWebToken method of AuthProvider Called 
+INFO  01:48:45  GenerateJWT method of AuthRepo Called 
+INFO  01:49:06 Application started. Press Ctrl+C to shut down.
+INFO  01:49:06 Application started. Press Ctrl+C to shut down.
+INFO  01:49:06 Hosting environment: Development
+INFO  01:49:06 Hosting environment: Development
+INFO  01:49:06 Content root path: D:\games\fonts\AuthorizationService
+INFO  01:49:06 Content root path: D:\games\fonts\AuthorizationService
+INFO  01:49:06  Http GET Request From: TokenController
+INFO  01:49:06  GetJsonWebToken method of AuthProvider Called 
+INFO  01:49:06  GenerateJWT method of AuthRepo Called 
+INFO  10:25:31 Application started. Press Ctrl+C to shut down.
+INFO  10:25:31 Application started. Press Ctrl+C to shut down.
+INFO  10:25:31 Hosting environment: Development
+INFO  10:25:31 Hosting environment: Development
+INFO  10:25:31 Content root path: D:\MFPE\AuthorizationService
+INFO  10:25:31 Content root path: D:\MFPE\AuthorizationService
+INFO  10:25:31  Http GET Request From: TokenController
+INFO  10:25:31  GetJsonWebToken method of AuthProvider Called 
+INFO  10:25:31  GenerateJWT method of AuthRepo Called 
+INFO  10:27:50 Application started. Press Ctrl+C to shut down.
+INFO  10:27:50 Application started. Press Ctrl+C to shut down.
+INFO  10:27:50 Hosting environment: Development
+INFO  10:27:50 Hosting environment: Development
+INFO  10:27:50 Content root path: D:\MFPE\AuthorizationService
+INFO  10:27:50 Content root path: D:\MFPE\AuthorizationService
+INFO  10:27:51  Http GET Request From: TokenController
+INFO  10:27:51  GetJsonWebToken method of AuthProvider Called 
+INFO  10:27:51  GenerateJWT method of AuthRepo Called 
+INFO  10:27:52  Http GET Request From: TokenController
+INFO  10:27:52  GetJsonWebToken method of AuthProvider Called 
+INFO  10:27:52  GenerateJWT method of AuthRepo Called 
+INFO  04:22:40 Application started. Press Ctrl+C to shut down.
+INFO  04:22:40 Application started. Press Ctrl+C to shut down.
+INFO  04:22:40 Hosting environment: Development
+INFO  04:22:40 Hosting environment: Development
+INFO  04:22:40 Content root path: D:\MFPE\AuthorizationService
+INFO  04:22:40 Content root path: D:\MFPE\AuthorizationService
+INFO  04:22:40  Http GET Request From: TokenController
+INFO  04:22:40  GetJsonWebToken method of AuthProvider Called 
+INFO  04:22:40  GenerateJWT method of AuthRepo Called 
+INFO  04:22:44  Http GET Request From: TokenController
+INFO  04:22:44  GetJsonWebToken method of AuthProvider Called 
+INFO  04:22:44  GenerateJWT method of AuthRepo Called 
+INFO  10:03:16 Application started. Press Ctrl+C to shut down.
+INFO  10:03:16 Application started. Press Ctrl+C to shut down.
+INFO  10:03:16 Hosting environment: Development
+INFO  10:03:16 Hosting environment: Development
+INFO  10:03:16 Content root path: D:\MFPE\mfpeFInal\AuthorizationService
+INFO  10:03:16 Content root path: D:\MFPE\mfpeFInal\AuthorizationService
+INFO  10:03:16  Http GET Request From: TokenController
+INFO  10:03:16  GetJsonWebToken method of AuthProvider Called 
+INFO  10:03:16  GenerateJWT method of AuthRepo Called 
+INFO  10:43:44 Application started. Press Ctrl+C to shut down.
+INFO  10:43:44 Application started. Press Ctrl+C to shut down.
+INFO  10:43:44 Hosting environment: Development
+INFO  10:43:44 Hosting environment: Development
+INFO  10:43:44 Content root path: D:\MFPE\mfpeFInal\AuthorizationService
+INFO  10:43:44 Content root path: D:\MFPE\mfpeFInal\AuthorizationService
+INFO  10:43:44  Http GET Request From: TokenController
+INFO  10:43:44  GetJsonWebToken method of AuthProvider Called 
+INFO  10:43:44  GenerateJWT method of AuthRepo Called 
