@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityTesting\\AuditSeverityTesting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityModule\\AuditSeverityModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityModule\\AuditSeverityModule.csproj",
+        "projectName": "AuditSeverityModule",
+        "projectPath": "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityModule\\AuditSeverityModule.csproj",
+        "packagesPath": "C:\\Users\\suvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityTesting\\AuditSeverityTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityTesting\\AuditSeverityTesting.csproj",
+        "projectName": "AuditSeverityTesting",
+        "projectPath": "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityTesting\\AuditSeverityTesting.csproj",
+        "packagesPath": "C:\\Users\\suvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityModule\\AuditSeverityModule.csproj": {
+                "projectPath": "C:\\Users\\suvin\\Downloads\\Mfpe\\AuditSeverityModule\\AuditSeverityModule.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

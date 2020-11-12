@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "_Authenticated";
+}
+
+@{ ViewData["Title"] = "AuditType"; }
+
+
+<h1> Welcome @ViewBag.User</h1>
+@*<h1> @ViewBag.Token </h1>*@
+<hr />
+
+<h2>Choose The Audit Type</h2>
+@*<h4>1. Internal</h4>
+<h6>OR</h6>
+<h4>2. SOX</h4>*@
+
+
+<div class="row">
+    <div class="col-md-4" id="login">
+        <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Checklist">
+
+            <div class="form-group">
+
+                <select class="form-control" id="audittype" name="audittype">
+                    <option value="Internal">Internal</option>
+                    <option value="SOX">SOX</option>
+                   
+                </select>
+
+                @*<input required type="text" class="form-control" id="audittype" name="audittype" />*@
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Select" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>

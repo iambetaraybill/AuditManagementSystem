@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditSeverityModule", "AuditSeverityModule.csproj", "{C5B3E213-9EF8-4164-995A-E3330F71D183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditSeverityTesting", "..\AuditSeverityTesting\AuditSeverityTesting.csproj", "{2B3FDA0E-A64C-4C54-A3B7-FF4972B4985F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B3E213-9EF8-4164-995A-E3330F71D183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B3E213-9EF8-4164-995A-E3330F71D183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B3E213-9EF8-4164-995A-E3330F71D183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B3E213-9EF8-4164-995A-E3330F71D183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3FDA0E-A64C-4C54-A3B7-FF4972B4985F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3FDA0E-A64C-4C54-A3B7-FF4972B4985F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3FDA0E-A64C-4C54-A3B7-FF4972B4985F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3FDA0E-A64C-4C54-A3B7-FF4972B4985F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16C2CCB-8C62-4145-816F-95E4A77AD306}
+	EndGlobalSection
+EndGlobal

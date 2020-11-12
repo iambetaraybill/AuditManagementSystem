@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AuditManagementPortalClientMVC.Models.CQuestions>
+
+@{ Layout = "_Authenticated"; }
+@{ ViewData["Title"] = "Checklist"; }
+
+
+@{ int count = 0; }
+<form asp-action="Severity" id="form" method="post">
+
+    <h1>Enter Project Details</h1>
+    <div class="form-group">
+        <label class="pname control-label">Project Name<span style="color:red;">*</span></label>
+        <input required type="text" id="pnm" name="pnm" class="pname form-control" />
+    </div>
+    <div class="form-group">
+        <label class="mname control-label">Project Manager Name<span style="color:red;">*</span></label>
+        <input required type="text" id="mnm" name="mnm" class="mname form-control" />
+    </div>
+    <div class="form-group">
+        <label class="oname control-label">Application Owner Name<span style="color:red;">*</span></label>
+        <input required type="text" id="onm" name="onm" class="oname form-control" />
+    </div>
+    <div class="form-group">
+        <label class="datee control-label">Date<span style="color:red;">*</span></label>
+        <input required type="date" id="dtee" name="dtee" class="datee form-control" />
+    </div>
+
+
+    <h1>Checklist Questions</h1>
+    <table class="table">
+        @*<thead>
+                <tr>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.Question)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>*@
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count = count + 1;
+                string j = "q" + count.ToString();
+
+<tr>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Question)
+    </td>
+    <td><input value="true" type="checkbox" class="form-group" id="@j" name="@j" /></td>
+</tr>}
+        </tbody>
+    </table>
+
+    <div class="form-group">
+        <input type="submit" value="Submit" class="btn btn-success" />
+    </div>
+</form>

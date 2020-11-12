@@ -1,0 +1,9 @@
+INFO  02:48:32 Application started. Press Ctrl+C to shut down.
+INFO  02:48:32 Application started. Press Ctrl+C to shut down.
+INFO  02:48:32 Hosting environment: Development
+INFO  02:48:32 Hosting environment: Development
+INFO  02:48:32 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:48:32 Content root path: D:\MyAspDotNetProjects\AuthorizationService
+INFO  02:48:32  Http GET Request From: TokenController
+INFO  02:48:32  GetJsonWebToken method of AuthProvider Called 
+INFO  02:48:32  GenerateJWT method of AuthRepo Called 
